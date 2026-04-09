@@ -26,6 +26,7 @@ conda env create -f environment.yml
 
 # Activate the environment
 conda activate trackomics
+```
 
 ### 2. Running the Notebooks
 Download the required data from the BioStudies S-BSST2777 database.
