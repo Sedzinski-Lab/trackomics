@@ -1,6 +1,6 @@
 # trackomics (v1_paper)
 
-This repository contains the code for data postprocessing, plotting, and analysis associated with the study: **Single-cell morphodynamics predict cell fate decisions during mucociliary epithelial differentiation.**.
+This repository contains the code for data postprocessing, plotting, and analysis associated with the study: **Single-cell morphodynamics predict cell fate decisions during mucociliary epithelial differentiation.**
 
 ## Project Resources
 
